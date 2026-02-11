@@ -34,3 +34,5 @@ Velocity/
 
 ## License
 This project is open source
+
+![Site](https://github.com/meridian-1/Velocity-Website/blob/main/SiteScreenshot.png)
