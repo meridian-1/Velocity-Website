@@ -1,4 +1,5 @@
 # Velocity
+https://meridian-1.github.io/Velocity-Website/
 
 Velocity is a modern, responsive web landing page designed for a design agency or creative company. It showcases services like Graphic Design, Web Design, and UI/UX Design through an elegant and clean interface.
 
